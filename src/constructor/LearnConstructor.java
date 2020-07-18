@@ -1,8 +1,6 @@
 package constructor;
 
 
-import method.LeranMethod;
-
 public class LearnConstructor {
 // Constructor Name will be same as Class Name.
 // Constructor Has no Return Type
@@ -72,7 +70,7 @@ public class LearnConstructor {
         ahmed.courseFee=4550.66;
         ahmed.address="USA";
         ahmed.age=32;
-        System.out.println("Student name is"+" "+ ahmed.name+" "+"his coursefee is"+" "+ahmed.courseFee+" "+"his address"+" "+ahmed.address+" "+"his age is"+" "+ahmed.age);
+        System.out.println("Student name is"+" "+ ahmed.name+" "+"his coursefee is"+" "+ahmed.courseFee+" "+"his address"+" "+ahmed.address+" "+"is age is"+" "+ahmed.age);
 
     }
 
