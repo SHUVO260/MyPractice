@@ -16,8 +16,8 @@ public interface Car {
     public void stearingcar();
     public void breakcar();
     // declare & initialize value
-  public String seat=”2”;
-   public String headlight=”4”;
+//  public String seat=”2”;**
+//   public String headlight=”4”;**
     boolean gasTank=true;
 
 
